@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/codingExercises/codingExercises.iml" filepath="$PROJECT_DIR$/codingExercises/codingExercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-algorithms-data-strucures.iml" filepath="$PROJECT_DIR$/java-algorithms-data-strucures.iml" />
     </modules>
   </component>
